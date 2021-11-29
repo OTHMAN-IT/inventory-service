@@ -25,3 +25,6 @@ Les dépendances nécessaires:
 -Spring Boot DevTools 
 -Eureka Discovery Client
 -Spring Boot Actuator
+
+![image](https://user-images.githubusercontent.com/61996048/143938689-ab852f65-4af1-441e-bbcb-71e438d27838.png)
+
